@@ -118,5 +118,5 @@ Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的�
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ***
-###全文完
+###本章完
 <img src="http://i1.buimg.com/569521/95e0482dea622035.jpg"alt='pinterest' height=500 >
